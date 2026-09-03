@@ -1,4 +1,4 @@
-Machine Failure Prediction Using Sensor Data
+Predictive Maintenance for Equipment Failure
 
 
 🎯 Objective
